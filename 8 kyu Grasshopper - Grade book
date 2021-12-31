@@ -21,6 +21,6 @@ function getGrade (s1, s2, s3) {
   } else if (score < 70 && score >=60){
     return 'D';
   } else {
-    return 'F'
+    return 'F';
   }
   }
